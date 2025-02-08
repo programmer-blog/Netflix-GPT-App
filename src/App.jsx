@@ -1,11 +1,10 @@
 import React from 'react'
+import Body from './components/Body'
 
 const App = () => {
   return (
-    <div className='container bg-red-500 mx-auto text-blue-600'>
-      <h1>Hello Tail Wind</h1>
-    </div>
+    <Body />
   )
 }
 
-export default App
+export default App 
