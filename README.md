@@ -27,7 +27,14 @@
 - Update stroe with trailer video
 - Embedded the youtube video and make it auto play
 - Tailwind classes to look better
-- 
+- Build Secondary component
+- Build movie list
+- Buuild movie card
+- TMDB image cdn url
+- Made browse page amazing with tailwind css
+- usePopular movies custom hook
+- useUpcoming movies custom hook
+- useTopRated Movies custom hook
 
 # Features
 
